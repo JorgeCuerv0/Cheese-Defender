@@ -75,17 +75,17 @@ In Cheese Defender, the player is tasked with protecting a piece of cheese from 
    git clone https://github.com/JorgeCuerv0/Cheese-Defender.git
    ```
 2. Navigate to the project directory:
-  ```bash
+   ```bash
    cd Cheese-Defender
-  ```
+   ```
 4. Install required dependencies:
    ```bash
    pip install pygame
    ```
 5. Run the game:
-  ``` bash
-  python cheese_defender.py
-  ```
+   ``` bash
+   python cheese_defender.py
+   ```
 ## How to Play
 
 Protect the cheese at the center of the screen by clicking on approaching roaches.  
