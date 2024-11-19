@@ -86,6 +86,53 @@ In Cheese Defender, the player is tasked with protecting a piece of cheese from 
   ``` bash
   python cheese_defender.py
   ```
+## How to Play
+
+Protect the cheese at the center of the screen by clicking on approaching roaches.  
+Each swat earns points:  
+- **Normal Roach:** 1 hit  
+- **Fast Roach:** 1 hit  
+- **Tipsy Roach:** 1 hit  
+- **Big Boy Roach:** 2 hits  
+
+The game **ends** when any roach reaches the cheese.  
+Restart the game by pressing `R` or quit by pressing `Q`.
+
+---
+
+## Challenges Overcome
+
+- Implementing different behaviors for each roach type (e.g., swirling movement for tipsy roaches).  
+- Managing increasing difficulty through dynamic roach spawning and scaling speed.  
+- Designing an intuitive user interface with real-time score and time tracking.
+
+---
+
+## Future Enhancements
+
+- Add power-ups (e.g., freeze all roaches for a few seconds).  
+- Include leaderboard functionality for high scores.  
+- Implement additional roach types for variety.  
+- Introduce sound effects for swats and game over events.
+
+---
+
+## Credits
+
+- **Author:** Jorge Sandoval  
+- **Assignment:** SMC CS 87 - Assignment 9  
+- **Date:** November 14, 2024  
+
+---
+
+## License
+
+This project is licensed under the **MIT License**.  
+Feel free to use, modify, and distribute as per the terms of the license.
+
+---
+
+Enjoy defending your cheese!
 
 
  
